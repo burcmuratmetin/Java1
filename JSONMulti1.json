@@ -1,0 +1,12 @@
+{
+    "Data": [
+        {
+            "LocalReservationId": 101,
+            "UnitCode": 99
+	},
+        {
+            "LocalReservationId": 102,
+            "UnitCode": 207
+	}
+   ]
+}

@@ -1,0 +1,20 @@
+{"Data":[{"UnitCode":99,"LocalReservationId":101},{"UnitCode":207,"LocalReservationId":102}]}
+{"UnitCode":99,"LocalReservationId":101}
+My Unit : 99
+My Reservation : 101
+{"UnitCode":207,"LocalReservationId":102}
+My Unit : 207
+My Reservation : 102
+{"Data":[{"UnitCode":201,"LocalReservationId":2211221122},{"UnitCode":204,"LocalReservationId":123},{"UnitCode":211,"LocalReservationId":5667},{"UnitCode":219,"LocalReservationId":222245454}]}
+{"UnitCode":201,"LocalReservationId":2211221122}
+My Unit : 201
+My Reservation : 2211221122
+{"UnitCode":204,"LocalReservationId":123}
+My Unit : 204
+My Reservation : 123
+{"UnitCode":211,"LocalReservationId":5667}
+My Unit : 211
+My Reservation : 5667
+{"UnitCode":219,"LocalReservationId":222245454}
+My Unit : 219
+My Reservation : 222245454
